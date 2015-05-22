@@ -1,0 +1,4 @@
+# Generated files.
+config.scad
+enums.scad
+*.stl
